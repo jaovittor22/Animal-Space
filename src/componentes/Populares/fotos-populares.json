@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/assets/imagens/populares/hamster2.jpg",
+    "alt": "hamster marrom",
+    "id": 1
+  },
+  {
+    "path": "/assets/imagens/populares/passaro2.jpg",
+    "alt": "pássaro azul e amarelo",
+    "id": 2
+  },
+  {
+    "path": "/assets/imagens/populares/cachorro-leite.jpg",
+    "alt": "cachorro tomando leite",
+    "id": 3
+  },
+  {
+    "path": "/assets/imagens/populares/gato1.jpg",
+    "alt": "gato laranja",
+    "id": 4
+  },
+  {
+    "path": "/assets/imagens/populares/cachorropequeno.jpg",
+    "alt": "cachorro pequeno",
+    "id": 5
+  }
+]

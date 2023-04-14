@@ -1,0 +1,73 @@
+
+[
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/../assets/imagens/galeria/cachorromarrombranco.jpg",
+    "id": "1",
+    "tag": "Cachorros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/cachorropequeno.jpg",
+    "id": "2",
+    "tag": "Cachorros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/cachorro-leite.jpg",
+    "id": "3",
+    "tag": "Cachorros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/bulldog.jpg",
+    "id": "4",
+    "tag": "Cachorros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/gato1.jpg",
+    "id": "5",
+    "tag": "Gatos"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/gatocinza.jpg",
+    "id": "6",
+    "tag": "Gatos"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/passaro2.jpg",
+    "id": "7",
+    "tag": "Pássaros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/passaro3.jpg",
+    "id": "8",
+    "tag": "Pássaros"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/hamster.jpg",
+    "id": "9",
+    "tag": "Hamsters"
+  },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Animal Space",
+    "imagem": "/assets/imagens/galeria/hamster2.jpg",
+    "id": "10",
+    "tag": "Hamsters"
+  }
+]
